@@ -1,0 +1,36 @@
+{
+    "last_local_data": {
+        "Default (Windows).sublime-keymap": {
+            "dir": "", 
+            "path": "C:\\Users\\burlinchen\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Default (Windows).sublime-keymap", 
+            "version": 1428477811.4447217
+        }, 
+        "Package Control.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\burlinchen\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Package Control.sublime-settings", 
+            "version": 1431951603.355966
+        }, 
+        "Preferences.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\burlinchen\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Preferences.sublime-settings", 
+            "version": 1431951604.3680675
+        }
+    }, 
+    "last_remote_data": {
+        "Default (Windows).sublime-keymap": {
+            "dir": "", 
+            "path": "C:\\Program Files\\Sublime Text 3\\Packages\\Default (Windows).sublime-keymap", 
+            "version": 1428477811.4447217
+        }, 
+        "Package Control.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Program Files\\Sublime Text 3\\Packages\\Package Control.sublime-settings", 
+            "version": 1431951603.355966
+        }, 
+        "Preferences.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Program Files\\Sublime Text 3\\Packages\\Preferences.sublime-settings", 
+            "version": 1431951604.3680675
+        }
+    }
+}
