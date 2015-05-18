@@ -4,13 +4,21 @@
 	],
 	"installed_packages":
 	[
+		"Autoprefixer",
+		"CSScomb",
+		"DocBlockr",
 		"EJS",
 		"Emmet",
 		"Javascript Beautify",
+		"JsFormat",
 		"Markdown Preview",
 		"Package Control",
 		"Package Syncing",
 		"Sass",
-		"SassBeautify"
+		"SassBeautify",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Tag",
+		"TrailingSpaces"
 	]
 }

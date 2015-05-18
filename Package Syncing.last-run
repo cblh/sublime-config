@@ -8,12 +8,12 @@
         "Package Control.sublime-settings": {
             "dir": "", 
             "path": "C:\\Users\\burlinchen\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Package Control.sublime-settings", 
-            "version": 1431951603.355966
+            "version": 1431959550.79
         }, 
         "Preferences.sublime-settings": {
             "dir": "", 
             "path": "C:\\Users\\burlinchen\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Preferences.sublime-settings", 
-            "version": 1431951604.3680675
+            "version": 1431959551.8
         }
     }, 
     "last_remote_data": {
@@ -25,12 +25,12 @@
         "Package Control.sublime-settings": {
             "dir": "", 
             "path": "C:\\Program Files\\Sublime Text 3\\Packages\\Package Control.sublime-settings", 
-            "version": 1431951603.355966
+            "version": 1431959550.79
         }, 
         "Preferences.sublime-settings": {
             "dir": "", 
             "path": "C:\\Program Files\\Sublime Text 3\\Packages\\Preferences.sublime-settings", 
-            "version": 1431951604.3680675
+            "version": 1431959551.8
         }
     }
 }
