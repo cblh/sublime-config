@@ -1,36 +1,56 @@
 {
     "last_local_data": {
+        "CSScomb.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\burlinchen\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\CSScomb.sublime-settings", 
+            "version": 1432296208.8985682
+        }, 
         "Default (Windows).sublime-keymap": {
             "dir": "", 
             "path": "C:\\Users\\burlinchen\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Default (Windows).sublime-keymap", 
-            "version": 1428477811.4447217
+            "version": 1432295005.8727636
+        }, 
+        "MarkdownPreview.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\burlinchen\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\MarkdownPreview.sublime-settings", 
+            "version": 1432175772.7100346
         }, 
         "Package Control.sublime-settings": {
             "dir": "", 
             "path": "C:\\Users\\burlinchen\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Package Control.sublime-settings", 
-            "version": 1431959550.79
+            "version": 1432297123.3272202
         }, 
         "Preferences.sublime-settings": {
             "dir": "", 
             "path": "C:\\Users\\burlinchen\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Preferences.sublime-settings", 
-            "version": 1431959551.8
+            "version": 1432297461.448029
         }
     }, 
     "last_remote_data": {
+        "CSScomb.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Program Files\\Sublime Text 3\\Packages\\CSScomb.sublime-settings", 
+            "version": 1432296208.8985682
+        }, 
         "Default (Windows).sublime-keymap": {
             "dir": "", 
             "path": "C:\\Program Files\\Sublime Text 3\\Packages\\Default (Windows).sublime-keymap", 
-            "version": 1428477811.4447217
+            "version": 1432295005.8727636
+        }, 
+        "MarkdownPreview.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Program Files\\Sublime Text 3\\Packages\\MarkdownPreview.sublime-settings", 
+            "version": 1432175772.7100346
         }, 
         "Package Control.sublime-settings": {
             "dir": "", 
             "path": "C:\\Program Files\\Sublime Text 3\\Packages\\Package Control.sublime-settings", 
-            "version": 1431959550.79
+            "version": 1432297123.3272202
         }, 
         "Preferences.sublime-settings": {
             "dir": "", 
             "path": "C:\\Program Files\\Sublime Text 3\\Packages\\Preferences.sublime-settings", 
-            "version": 1431959551.8
+            "version": 1432297461.448029
         }
     }
 }
