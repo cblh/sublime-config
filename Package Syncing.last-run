@@ -8,7 +8,12 @@
         "Default (Windows).sublime-keymap": {
             "dir": "", 
             "path": "C:\\Users\\burlinchen\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Default (Windows).sublime-keymap", 
-            "version": 1432295005.8727636
+            "version": 1433841180.0335646
+        }, 
+        "Emmet.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\burlinchen\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Emmet.sublime-settings", 
+            "version": 1436259302.9149237
         }, 
         "MarkdownPreview.sublime-settings": {
             "dir": "", 
@@ -18,12 +23,17 @@
         "Package Control.sublime-settings": {
             "dir": "", 
             "path": "C:\\Users\\burlinchen\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Package Control.sublime-settings", 
-            "version": 1432297123.3272202
+            "version": 1435798776.523708
         }, 
         "Preferences.sublime-settings": {
             "dir": "", 
             "path": "C:\\Users\\burlinchen\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Preferences.sublime-settings", 
-            "version": 1432297461.448029
+            "version": 1436236150.5504272
+        }, 
+        "SublimeLinter\\Monokai Extended Bright (SL).tmTheme": {
+            "dir": "SublimeLinter", 
+            "path": "C:\\Users\\burlinchen\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\SublimeLinter\\Monokai Extended Bright (SL).tmTheme", 
+            "version": 1433838431.7693727
         }
     }, 
     "last_remote_data": {
@@ -35,7 +45,12 @@
         "Default (Windows).sublime-keymap": {
             "dir": "", 
             "path": "C:\\Program Files\\Sublime Text 3\\Packages\\Default (Windows).sublime-keymap", 
-            "version": 1432295005.8727636
+            "version": 1433841180.0335646
+        }, 
+        "Emmet.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Program Files\\Sublime Text 3\\Packages\\Emmet.sublime-settings", 
+            "version": 1436259302.9149237
         }, 
         "MarkdownPreview.sublime-settings": {
             "dir": "", 
@@ -45,12 +60,17 @@
         "Package Control.sublime-settings": {
             "dir": "", 
             "path": "C:\\Program Files\\Sublime Text 3\\Packages\\Package Control.sublime-settings", 
-            "version": 1432297123.3272202
+            "version": 1435798776.523708
         }, 
         "Preferences.sublime-settings": {
             "dir": "", 
             "path": "C:\\Program Files\\Sublime Text 3\\Packages\\Preferences.sublime-settings", 
-            "version": 1432297461.448029
+            "version": 1436236150.5504272
+        }, 
+        "SublimeLinter\\Monokai Extended Bright (SL).tmTheme": {
+            "dir": "SublimeLinter", 
+            "path": "C:\\Program Files\\Sublime Text 3\\Packages\\SublimeLinter\\Monokai Extended Bright (SL).tmTheme", 
+            "version": 1433838431.7693727
         }
     }
 }
