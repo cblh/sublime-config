@@ -10,6 +10,11 @@
             "path": "C:\\Users\\burlinchen\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Default (Windows).sublime-keymap", 
             "version": 1433841180.0335646
         }, 
+        "Distraction Free.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\burlinchen\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Distraction Free.sublime-settings", 
+            "version": 1436507081.7296286
+        }, 
         "Emmet.sublime-settings": {
             "dir": "", 
             "path": "C:\\Users\\burlinchen\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Emmet.sublime-settings", 
@@ -23,12 +28,17 @@
         "Package Control.sublime-settings": {
             "dir": "", 
             "path": "C:\\Users\\burlinchen\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Package Control.sublime-settings", 
-            "version": 1436449215.3151503
+            "version": 1437962749.30916
         }, 
         "Preferences.sublime-settings": {
             "dir": "", 
             "path": "C:\\Users\\burlinchen\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Preferences.sublime-settings", 
-            "version": 1436493408.61
+            "version": 1438836534.55
+        }, 
+        "SideBarEnhancements\\Open With\\Side Bar.sublime-menu": {
+            "dir": "SideBarEnhancements\\Open With", 
+            "path": "C:\\Users\\burlinchen\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\SideBarEnhancements\\Open With\\Side Bar.sublime-menu", 
+            "version": 1436932024.193722
         }, 
         "SublimeLinter\\Monokai Extended Bright (SL).tmTheme": {
             "dir": "SublimeLinter", 
@@ -47,6 +57,11 @@
             "path": "C:\\Program Files\\Sublime Text 3\\Packages\\Default (Windows).sublime-keymap", 
             "version": 1433841180.0335646
         }, 
+        "Distraction Free.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Program Files\\Sublime Text 3\\Packages\\Distraction Free.sublime-settings", 
+            "version": 1436507081.7296286
+        }, 
         "Emmet.sublime-settings": {
             "dir": "", 
             "path": "C:\\Program Files\\Sublime Text 3\\Packages\\Emmet.sublime-settings", 
@@ -60,12 +75,17 @@
         "Package Control.sublime-settings": {
             "dir": "", 
             "path": "C:\\Program Files\\Sublime Text 3\\Packages\\Package Control.sublime-settings", 
-            "version": 1436449215.3151503
+            "version": 1437962749.30916
         }, 
         "Preferences.sublime-settings": {
             "dir": "", 
             "path": "C:\\Program Files\\Sublime Text 3\\Packages\\Preferences.sublime-settings", 
-            "version": 1436493408.61
+            "version": 1438836534.55
+        }, 
+        "SideBarEnhancements\\Open With\\Side Bar.sublime-menu": {
+            "dir": "SideBarEnhancements\\Open With", 
+            "path": "C:\\Program Files\\Sublime Text 3\\Packages\\SideBarEnhancements\\Open With\\Side Bar.sublime-menu", 
+            "version": 1436932024.193722
         }, 
         "SublimeLinter\\Monokai Extended Bright (SL).tmTheme": {
             "dir": "SublimeLinter", 
